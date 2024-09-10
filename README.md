@@ -4,6 +4,13 @@
 
 ...
 
+## Solidity: Foundry
+I already installed foundry with curl.
+
+```bash
+forge init my-project
+```
+
 ## Python: uv
 I already installed uv with Homebrew.
 
